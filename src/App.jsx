@@ -23,7 +23,10 @@ function AppContent() {
     { id: 2, title: "Prepare for class", due: "2026-11-23", done: false }
   ]);
 
-  const page = location.pathname === "/" ? "home" : location.pathname.substring(1);
+const page =
+  location.pathname === "/UNN-Konnect/" || location.pathname === "/"
+    ? "home"
+    : location.pathname.replace("/UNN-Konnect/", "").replace("/", "");
 
   const go = (nextPage) => {
     const path = nextPage === "home" ? "/" : `/${nextPage}`;
@@ -64,7 +67,7 @@ function AppContent() {
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/UNN-Konnect">
       <AppContent />
     </BrowserRouter>
   );
