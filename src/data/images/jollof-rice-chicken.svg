@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Plate of jollof rice with chicken and plantain">
+<rect width="400" height="300" fill="#FDEBD0"/>
+<ellipse cx="200" cy="262" rx="150" ry="14" fill="#000" opacity=".08"/>
+<ellipse cx="200" cy="170" rx="160" ry="96" fill="#fff"/>
+<ellipse cx="200" cy="170" rx="132" ry="76" fill="#F4F1EC"/>
+<path d="M110 175c0-48 40-72 90-72s90 24 90 72c0 18-40 30-90 30s-90-12-90-30z" fill="#D9461F"/>
+<g fill="#E8663A"><circle cx="150" cy="150" r="5"/><circle cx="175" cy="135" r="5"/><circle cx="205" cy="128" r="5"/><circle cx="232" cy="140" r="5"/><circle cx="250" cy="160" r="5"/><circle cx="165" cy="165" r="5"/><circle cx="195" cy="155" r="5"/><circle cx="225" cy="165" r="5"/><circle cx="140" cy="178" r="5"/><circle cx="260" cy="182" r="5"/></g>
+<g transform="rotate(-25 255 120)"><path d="M225 100c18-22 55-14 62 10 6 22-14 42-40 40-20-2-34-30-22-50z" fill="#A9611F"/><path d="M235 108c12-12 34-8 40 6" stroke="#C98240" stroke-width="5" fill="none" stroke-linecap="round"/><rect x="278" y="128" width="40" height="12" rx="6" fill="#F3E3C3"/><circle cx="320" cy="124" r="8" fill="#F3E3C3"/><circle cx="320" cy="144" r="8" fill="#F3E3C3"/></g>
+<g fill="#F2B632" stroke="#B9801A" stroke-width="3"><ellipse cx="120" cy="215" rx="26" ry="12" transform="rotate(-15 120 215)"/><ellipse cx="160" cy="225" rx="26" ry="12" transform="rotate(-8 160 225)"/><ellipse cx="205" cy="230" rx="26" ry="12"/></g>
+</svg>

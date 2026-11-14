@@ -1,0 +1,8 @@
+export const products = [
+  { name: "Jollof rice & chicken", category: "Food", price: "₦1,800–₦2,500", vendor: "Mama Ada's Kitchen", area: "Central Cafeteria area", description: "Jollof rice with chicken and plantain.", image: "images/jollof-rice-chicken.svg", imageAlt: "Plate of jollof rice with chicken and plantain" },
+  { name: "Egusi soup & swallow", category: "Food", price: "From ₦1,500", vendor: "Mama Ada's Kitchen", area: "Central Cafeteria area", description: "Choose eba, fufu or semo.", image: "images/egusi-soup-swallow.svg", imageAlt: "Bowl of egusi soup with a ball of swallow" },
+  { name: "Black & white printing", category: "Printing", price: "₦50 per page", vendor: "QuickPrint Hub", area: "Near the Main Library", description: "A4 black-and-white printing.", image: "images/black-white-printing.svg", imageAlt: "Printer producing a black and white page" },
+  { name: "Project binding", category: "Printing", price: "₦1,500–₦4,000", vendor: "QuickPrint Hub", area: "Near the Main Library", description: "Hard or soft cover binding.", image: "images/project-binding.svg", imageAlt: "Hard cover and spiral bound project booklets" },
+  { name: "Wash & fold", category: "Laundry", price: "From ₦2,500", vendor: "FreshFold Laundry", area: "Hostel area", description: "Laundry with hostel-area pickup.", image: "images/wash-and-fold.svg", imageAlt: "Washing machine beside a stack of folded clothes" },
+  { name: "Phone screen replacement", category: "Repairs", price: "₦15,000–₦45,000", vendor: "GadgetFix", area: "Central campus", description: "Screen replacement by appointment.", image: "images/phone-screen-replacement.svg", imageAlt: "Smartphone with a cracked screen and repair tools" }
+];

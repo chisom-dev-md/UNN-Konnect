@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Printer producing a black and white page">
+<rect width="400" height="300" fill="#E8EDF5"/>
+<rect x="120" y="40" width="160" height="90" rx="4" fill="#fff" stroke="#9AA5B8" stroke-width="3"/>
+<g fill="#444"><rect x="138" y="58" width="90" height="7" rx="3"/><rect x="138" y="76" width="124" height="7" rx="3"/><rect x="138" y="94" width="110" height="7" rx="3"/><rect x="138" y="112" width="70" height="7" rx="3"/></g>
+<rect x="60" y="120" width="280" height="110" rx="16" fill="#3D4657"/>
+<rect x="60" y="120" width="280" height="30" rx="14" fill="#566079"/>
+<rect x="100" y="180" width="200" height="12" rx="6" fill="#1F2430"/>
+<rect x="130" y="196" width="140" height="70" rx="3" fill="#fff" stroke="#9AA5B8" stroke-width="3"/>
+<g fill="#444"><rect x="144" y="210" width="80" height="6" rx="3"/><rect x="144" y="224" width="110" height="6" rx="3"/><rect x="144" y="238" width="60" height="6" rx="3"/></g>
+<circle cx="312" cy="137" r="6" fill="#4CAF50"/>
+<text x="200" y="285" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="bold" fill="#3D4657">A4 · B&amp;W</text>
+</svg>

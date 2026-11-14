@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Washing machine beside a stack of folded clothes">
+<rect width="400" height="300" fill="#E3F2FA"/>
+<ellipse cx="200" cy="270" rx="170" ry="12" fill="#000" opacity=".08"/>
+<rect x="40" y="60" width="150" height="200" rx="14" fill="#F5F7FA" stroke="#A8B8C8" stroke-width="3"/>
+<rect x="40" y="60" width="150" height="38" rx="12" fill="#DDE5EE"/>
+<circle cx="64" cy="79" r="8" fill="#4A90C2"/><rect x="86" y="73" width="60" height="12" rx="6" fill="#B8C6D4"/>
+<circle cx="115" cy="178" r="52" fill="#B8C6D4"/><circle cx="115" cy="178" r="42" fill="#5BA7D6"/>
+<path d="M78 180c12-12 24 12 37 0s24 12 37 0v30a42 42 0 0 1-74 0z" fill="#3E86B5"/>
+<circle cx="100" cy="160" r="6" fill="#fff" opacity=".6"/>
+<rect x="225" y="205" width="130" height="30" rx="6" fill="#E8625A"/>
+<rect x="232" y="175" width="116" height="30" rx="6" fill="#F4C542"/>
+<rect x="222" y="145" width="134" height="30" rx="6" fill="#4FB286"/>
+<rect x="230" y="115" width="118" height="30" rx="6" fill="#5B8DEF"/>
+<g fill="#fff" opacity=".6"><circle cx="215" cy="100" r="9"/><circle cx="245" cy="80" r="6"/><circle cx="330" cy="92" r="8"/></g>
+</svg>
